@@ -1,3 +1,5 @@
+em chon ra cac duong link co source code a,con cac duong link khac khong co source code ro rang a.
+
 https://github.com/haohaobk98/PeopleCounter
 https://www.youtube.com/watch?v=KYtaoUJUFeQ&t=0s&index=8&list=WL
 https://drive.google.com/file/d/0B2o-Fc4_hUmhY3VWXzN2RUhreDZNaWowWGdmUGJYcHYwMkdz/view
