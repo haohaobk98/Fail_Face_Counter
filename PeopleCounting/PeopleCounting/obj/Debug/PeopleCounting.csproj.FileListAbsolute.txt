@@ -1,0 +1,6 @@
+C:\Users\Ki Thuat 88\source\repos\PeopleCounting\PeopleCounting\obj\Debug\PeopleCounting.csprojResolveAssemblyReference.cache
+C:\Users\Ki Thuat 88\source\repos\PeopleCounting\PeopleCounting\obj\Debug\PeopleCounting.exe.config
+C:\Users\Ki Thuat 88\source\repos\PeopleCounting\PeopleCounting\obj\Debug\FaceRecognition.frmEnrollment.resources
+C:\Users\Ki Thuat 88\source\repos\PeopleCounting\PeopleCounting\obj\Debug\PeopleCounting.Properties.Resources.resources
+C:\Users\Ki Thuat 88\source\repos\PeopleCounting\PeopleCounting\obj\Debug\PeopleCounting.csproj.GenerateResource.Cache
+C:\Users\Ki Thuat 88\source\repos\PeopleCounting\PeopleCounting\obj\Debug\PeopleCounting.csproj.CoreCompileInputs.cache
